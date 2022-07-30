@@ -1,3 +1,3 @@
 # pyt.pract
 
-- for practicing python / 
+- for practising python / 
